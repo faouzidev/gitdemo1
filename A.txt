@@ -1,3 +1,5 @@
 fonction 1 
 Defenir le contenu de la fonction 
 return 1
+
+Une autre modification pour la vue Contact
