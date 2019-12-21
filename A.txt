@@ -1,5 +1,3 @@
 fonction 1 
-var 1
-
+Defenir le contenu de la fonction 
 return 1
-    
