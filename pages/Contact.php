@@ -6,3 +6,4 @@
 <label for="">Mon adresse email : test@</label>
 
 <p>2 emme essai Modification 1 </p>
+<input type="hidden" value="id_entity">
