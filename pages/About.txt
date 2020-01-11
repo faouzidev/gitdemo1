@@ -2,3 +2,5 @@
 
 NB : si vous switcher de brancher B vers branche A, alors que tu n’as pas commité les modifs dans la branche B, 
 Là fait attention car tous les modifs faites dans la branches B vont etre transporter vers la branche A 
+
+Test
