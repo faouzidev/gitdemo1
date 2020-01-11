@@ -6,3 +6,4 @@
 <input type="hidden" value="id_entity">
 <h1>Contact</h1>
 <p>Email : MonAdresseEmail</p>
+<p>Modif 1 sur branch B</p>
